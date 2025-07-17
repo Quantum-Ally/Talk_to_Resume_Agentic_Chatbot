@@ -1,0 +1,3 @@
+I'm Abdul Qudoos, a final-year Software Engineering student at FAST University with a CGPA of 3.5 and a highest SGPA of 3.9. I was born in Azad Kashmir and moved to Islamabad for my graduation. My core interests lie in AI, Machine Learning, Deep Learning, and full-stack web development using technologies like MERN stack, Next.js, Firebase, SQL, and NoSQL. I also work with DevOps tools, have experience with Kubernetes, and I'm currently diving into Agentic AI.
+
+I'm skilled in Python, PHP, and always eager to build smart, scalable solutions. Outside of tech, I enjoy cricket, chess and other online shooting games. I’m dedicated, always learning, and passionate about using technology to make an impact.
